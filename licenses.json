@@ -1,7 +1,9 @@
 {
-  "licencas_ativas": [
-    "cavalo1",
-    "kalanguinhogentilini"
-    "CLIENTES-PRO-TESTE-0001"
+  "licencas-validas": [
+    "CAVALO1", // ADMIN
+    "CLIENTES-PRO-MARIA-1103",
+    "CLIENTES-PRO-CARLOS-1203",
+    "CLIENTES-PRO-ANA-1303",
+    "CLIENTES-PRO-JOAO-1403"  // 
   ]
 }
